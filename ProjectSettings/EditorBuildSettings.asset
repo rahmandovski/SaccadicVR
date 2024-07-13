@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: e12de443854a0444a8bf17ce28b0a098
+  - enabled: 1
+    path: Assets/Scenes/CountingGames.unity
+    guid: bc5709b0c21f7ce4d872f3f6912e8dfa
+  - enabled: 1
+    path: Assets/Scenes/ArcheryGame.unity
+    guid: 149923ea43aa14943b3331dc93c5b5c9
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: c8440d22c378af24cb1b8ce66f823e17, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: a1bbd2d8b63ac8b4990169843c4ad4c4, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 8cc84b60225f5924faeb7da6b4bed505, type: 2}
